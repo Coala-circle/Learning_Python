@@ -89,4 +89,4 @@ for A in range(3, 5):
 ```
 
 
-[홈페이지로](/index.md)
+[홈페이지로](../index.md)
