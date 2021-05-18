@@ -35,12 +35,12 @@ Ex) A = int(input(“하고싶은 말”))
 	a-=1 // 변수 A의 값에 1 빼기
 	
 ```python 
-x>y
-x<y
-x==y
-x<=y
-x>=y
-x!=y
+X > Y
+X < Y
+X == Y
+X <= Y
+X >= Y
+X != Y
 ```	
 
 ##	조건 반복절
