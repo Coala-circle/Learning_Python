@@ -4,9 +4,9 @@
 
 	input(“하고싶은 말”) //입력
 	
-	>	Ex) print(“안녕”)
+>		Ex) print(“안녕”)
 	
-	>	Ex) A = input(“하고싶은 말”)
+>		Ex) A = input(“하고싶은 말”)
 	
 	
 
