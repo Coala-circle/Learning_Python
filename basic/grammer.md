@@ -2,7 +2,7 @@
 
 	Print()	//출력
 
->	Ex)print(“안녕”)
+>	Ex) print(“안녕”)
 
 	input(“하고싶은 말”) //입력
 
