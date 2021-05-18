@@ -19,11 +19,11 @@ A = input(“하고싶은 말”)
 
 ##	변수형
 
-	**int //정수형	
+	int //정수형	
 	
-	**float //유리수형 
+	float //유리수형 
 	
-	**str(string) //문자열형
+	str(string) //문자열형
 
 ```python 
 Ex) A = int(input(“하고싶은 말”)) 
@@ -87,5 +87,3 @@ while A<5:
 for A in range(3, 5):
   print(A)
 ```
-
-	
