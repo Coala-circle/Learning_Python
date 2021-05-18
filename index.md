@@ -1,2 +1,5 @@
+#불암고등학교 정보 자율동아리 '코알라'의 웹페이지
 
-Hello World
+    파이썬 강의
+    http://github.com - automatic!
+    [GitHub](http://github.com)
