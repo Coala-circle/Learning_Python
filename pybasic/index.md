@@ -8,10 +8,10 @@
 
 	input(“하고싶은 말”) //입력
 	
-	```python 
-	Ex) print(“안녕”)
-	
-	Ex) A = input(“하고싶은 말”) ```
+```python 
+print(“안녕”)	
+A = input(“하고싶은 말”) 
+```
 	
 	
 
