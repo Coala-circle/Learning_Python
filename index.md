@@ -2,6 +2,6 @@
 
     파이썬 강의
     
-    [파이썬 기본문법](./pybasic/index.md)
+[파이썬 기본문법](./pybasic/index.md)
     
    
