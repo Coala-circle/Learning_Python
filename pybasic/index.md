@@ -17,14 +17,15 @@ A = input(“하고싶은 말”)
 
 ##	변수형
 
-	int //정수형	
+```python 
+int //정수형	
 
-	float //유리수형 
+float //유리수형 
 
-	str(string) //문자열형
+str(string) //문자열형
 
-	Ex) A = int(input(“하고싶은 말”)) 
-
+Ex) A = int(input(“하고싶은 말”)) 
+```
 
 
 ##	기초문법
