@@ -27,9 +27,9 @@
 
 	x>y		x<y
 
-  x==y	x<=y
+  	x==y		x<=y
 
-  x>=y	x!=y
+  	x>=y		x!=y
 
 #조건 반복절
 
